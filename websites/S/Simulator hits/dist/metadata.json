@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "DJMax",
+    "id": " 493038928224452639 "
+},
+  ],
+  "service": "SimulatorHits",
+  "description": {
+    "en": "Your Number 1 hit music station SimulatorHits"
+  },
+  "url": "Simulatorhits.com",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/SMdxb8j.jpg",
+  "thumbnail": "https://i.imgur.com/VKuKWWH.png",
+  "color": "#e163c0",
+  "tags": [
+    "SH",
+    "simulatorhits",
+    "radio",
+    "music",
+    "ets2",
+    "ats"
+  ],
+  "category": "music"
+}
